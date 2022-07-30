@@ -1,5 +1,3 @@
-# See working demo of the project:
-Click here to see working demo: [weconnect](https://video-chat-app-mky.netlify.app/)
 
 ## Getting Started with Create React App
 
